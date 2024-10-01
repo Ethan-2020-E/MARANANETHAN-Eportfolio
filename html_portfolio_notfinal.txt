@@ -1,0 +1,40 @@
+<html>
+<head> <title> E-Portfolio </title> </head>
+<body background=""C:\Users\Asus\OneDrive\Documents\Grade 9 - Fairness\1st Quarter\ICT\pexels-felixmittermeier-956999.jpg"" text="white" >
+<h1> E-Portfolio </h1>
+<p>
+<b> Something about Myself </b> <br> <br>
+My name is Ethan Haley Maranan.  I am B12 of 9-Fairness.  My hobbies are listening to music and playing video games with my cousins.  In this schoolyear, I hope I would bond well with my classmates and get good grades.  <br> <br> 
+<b> 1st Quarter Activities </b> <br> <br>
+<img src="Maranan_Hyperlink.png" alt="Activity in ICT" width="" height=""> <br>
+<font> Online Activity in ICT (Creating an HTML with a hyperlink) </font> <br> <br>
+
+<img src="" alt="" width="" height=""> <br>
+<font> PT#1 in ICT </font> <br> <br>
+
+<img src="" alt="" width="" height=""> <br>
+<font> PT#2 in ICT </font> <br> <br>
+
+<img src="MAPEH_StainedGlass.jpg" alt="Stained Glass" width="" height=""> <br>
+<font> Performance Task in Art (Stained Glass) </font> <br> <br>
+
+<img src="" alt="" width="" height=""> <br>
+<font>  </font> <br> <br>
+
+<img src="" alt="" width="" height=""> <br>
+<font>  </font> <br> <br>
+
+<img src="" alt="" width="" height=""> <br>
+<font>  </font> <br> <br>
+
+<img src="" alt="" width="" height=""> <br>
+<font>  </font> <br> <br>
+
+<img src="" alt="" width="" height=""> <br> 
+<font>  </font> <br> <br>
+
+<img src="" alt="" width="" height=""> <br>
+<font>  </font> <br> <br>
+</p>
+</body>
+</html>

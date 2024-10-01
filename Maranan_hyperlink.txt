@@ -1,0 +1,10 @@
+<html>
+<head> <title> Maranan_hyperlink </title> </head>
+<body>
+<h1> <b> HTML Hyperlinks Exercise </b> </h1> 
+<p>
+<a href="https://www.youtube.com/"> My Favorite Website </a> <br> <br>
+<a href="mailto:ethanhaley.maranan_student@depedlaspinas.ph"> Message Me! </a>
+</p>
+</body>
+</html>
